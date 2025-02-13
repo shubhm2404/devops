@@ -1,6 +1,6 @@
 ---
 - name: Deploy Application on Kubernetes
-  hosts: 13.232.210.146  # Replace with your target host group
+  hosts: 13.232.210.146  # Replace_with your target host group
   become: yes  # Run as root
   tasks:
 

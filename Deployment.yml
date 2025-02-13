@@ -16,7 +16,7 @@ spec:
     spec: 
       containers:
         - name: my-app-container
-          image: rawakarpranay/k8sprojects:latest  # Replace with your Docker image
+          image: rawakarpranay/k8sprojects:latest  # Replace_with your Docker image
           ports:
             - containerPort: 80  # Change if your app runs on a different port
           env:
