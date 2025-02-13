@@ -9,4 +9,4 @@ spec:
     - protocol: TCP
       port: 80       # External port
       targetPort: 80  # Container's exposed port
-  type: LoadBalancer  # Change to NodePort or ClusterIP as per requirement
+  type: LoadBalancer  # Change_to NodePort or ClusterIP as per requirement
