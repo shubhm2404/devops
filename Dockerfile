@@ -1,4 +1,4 @@
-# Use the official Node.js image from Docker Hub
+## Use the official Node.js image from Docker Hub
 FROM node:14
 
 # Set the working directory inside the container
